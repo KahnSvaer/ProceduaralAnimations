@@ -31,7 +31,8 @@ This creates a traveling wave along the body, mimicking real fish movement. The 
 ```
 ├── assets/
 │   ├── goldfish_mesh.glb     # Original mesh used for rigging
-│   ├── animation.gif              # Short preview of the animation
+│   ├── animation1.gif        # Side view of the animation
+│   ├── animation2.gif        # Top view of the animation
 │   └── Project_demo.mkv      # Full demo video
 ├── animate.py                # Procedural animation script
 ├── fish.blend               # Main Blender file (rigged + ready to run)
